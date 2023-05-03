@@ -1,4 +1,10 @@
-### Hi there 👋
+### About
+
+I have nearly 30 years of tech experience in Web Development, Web Design, Digital Graphics, and Manual QA Testing. My past includes being self-employed as a Freelance designer/developer, being among the first employees at a successful startup, and working for a Fortune 500 company. I've spent most of my time in the online advertising industry.
+
+Recently I graduated from a coding bootcamp to hone my modern full stack web development skills to further enhance my ability to seamlessly integrate the front-end into the back-end.
+
+If you're looking for an old(er) dude, with a lot of diverse ability and experience, who just went back to school because he loves what he does and wants to keep improving, please let me know.
 
 <!--
 **dtitus929/dtitus929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
