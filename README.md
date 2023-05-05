@@ -10,8 +10,7 @@ Recently I graduated from a coding bootcamp to hone my modern full stack web dev
 
 If you're looking for an old(er) team member, with a lot of diverse ability and experience, who just went back to school because he loves what he does and wants to keep improving, please let me know.
 
-[![img|146x31](https://user-images.githubusercontent.com/111056707/236346737-71aea8e4-0beb-46fb-a88c-eb9dc5c479f5.png)|width=100px
-](http://creativegozone.com/)
+<img src="https://user-images.githubusercontent.com/111056707/236346737-71aea8e4-0beb-46fb-a88c-eb9dc5c479f5.png" width="146" height="31">(http://creativegozone.com/)
 
 
 <!--
